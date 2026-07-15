@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6k0107/x/v1/juan/0
 seq: 0
 front:
-  text: 菩薩瓔珞本業經疏目次卷上逸失釋集眾品第一釋賢聖名字品第二釋賢聖學觀品第三卷下釋賢聖學觀品十觀心第九已下釋釋義品第四釋佛母品第五釋因果品第六釋大眾受學品第七釋集散品第八菩薩瓔珞本業經疏目次終
-  hash: sha256:ba018801f571dd82190db1d251a0f577fe2c0c7c8e9725ef1d5a6607eca9d956
+  text: 菩薩瓔珞本業經疏目次卷上逸失釋集衆品第一釋賢聖名字品第二釋賢聖學觀品第三卷下釋賢聖學觀品十觀心第九已下釋釋義品第四釋佛母品第五釋因果品第六釋大衆受學品第七釋集散品第八菩薩瓔珞本業經疏目次終
+  hash: sha256:deb2dfe2dcd92f996ac6e20f4a9fc91a8a2355c7c8d81626d0283a7dea2edd9e
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6k0107_X_000-mulu-1, level: '1'}
 body:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X39/X39n0705.xml
     old_id: X39n0705
-hash: sha256:bc962649dbe51b9bc247ab9807c3606324d0483329138ca67cf6ecc2a4c5f160
+hash: sha256:353b79acec563204b71b7f86bcea1735b274960f3f69bc5fe5aa83d524c9a605
