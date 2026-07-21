@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6k0107/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 菩薩瓔珞本業經疏目次卷上逸失釋集衆品第一釋賢聖名字品第二釋賢聖學觀品第三卷下釋賢聖學觀品十觀心第九已下釋釋義品第四釋佛母品第五釋因果品第六釋大衆受學品第七釋集散品第八菩薩瓔珞本業經疏目次終
   hash: sha256:deb2dfe2dcd92f996ac6e20f4a9fc91a8a2355c7c8d81626d0283a7dea2edd9e
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6k0107_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 瓔珞本業經疏
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X39/X39n0705.xml
     old_id: X39n0705
-hash: sha256:353b79acec563204b71b7f86bcea1735b274960f3f69bc5fe5aa83d524c9a605
+hash: sha256:78cdc8038cb6b369de4ce91ff7fc1daa48e6f093316da08c156a08c096eb63b4

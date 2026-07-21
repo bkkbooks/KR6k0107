@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0107_000-X.yaml, hash: 'sha256:bc962649dbe51b9bc247ab9807c3606324d0483329138ca67cf6ecc2a4c5f160'}
+  - {seq: 0, filename: KR6k0107_000-X.yaml, hash: 'sha256:972143e68a3f7556335bfcaf06668512ef90ff0feed881db023531966e3feffc'}
   - {seq: 2, filename: KR6k0107_002-X.yaml, hash: 'sha256:92336b43e4925728d242f216eadc138bd3f23d662073a2a533f12160e207f023'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0107_000-X.markers.yaml, hash: 'sha256:c7c83dafe3daa5029a498c48d2479ae45a559f262be50d750cd64d45beabdc80'}
+  - {seq: 0, role: markers, filename: assets/KR6k0107_000-X.markers.yaml, hash: 'sha256:b696ec303b3f8813e4967437a3ce10eaf5a3f925cabf944bbea4b30853d742a3'}
   - {seq: 2, role: markers, filename: assets/KR6k0107_002-X.markers.yaml, hash: 'sha256:2900b9a45aafb90983bb11cba35e94fc8bc427c84836af92f69a43547711138d'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0107_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目次
@@ -115,4 +115,4 @@ table_of_contents:
   label: No. 705-A 菩薩瓔珞本業經
   type: mulu
   level: 1
-hash: sha256:5483e5f9b583821ae60c71610bd782eba787d00d74da6d91d6289f2645cd0cf7
+hash: sha256:6d0605bca394ecafb5bb7eb5ac4649e09f4b95153527e3466613b2713d6d60f5
